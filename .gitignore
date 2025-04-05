@@ -1,0 +1,4 @@
+.mypy_cache
+venv
+sqlite-sakila-db
+sqlite-sakila.db
